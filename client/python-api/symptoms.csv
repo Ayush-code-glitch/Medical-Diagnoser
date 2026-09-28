@@ -1,0 +1,11 @@
+symptom1,symptom2,symptom3,symptom4,disease
+fever,cough,sore_throat,,cold
+fever,cough,headache,,flu
+fever,rash,headache,,measles
+fever,chills,body_ache,nausea,malaria
+cough,shortness_of_breath,wheezing,,asthma
+fever,cough,sore_throat,runny_nose,cold
+fever,cough,headache,fatigue,flu
+fever,rash,headache,conjunctivitis,measles
+fever,chills,body_ache,vomiting,malaria
+cough,shortness_of_breath,chest_tightness,,asthma
